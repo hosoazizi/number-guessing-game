@@ -32,19 +32,22 @@ To run this project locally using **Visual Studio**:
 
 1. **Clone the Repository:**
 ```bash
-   git clone [https://github.com/hosoazizi/number-guessing-game.git](https://github.com/hosoazizi/number-guessing-game.git)
+git clone https://github.com/hosoazizi/number-guessing-game.git
+```
 Open Visual Studio.
 
 Select Open a local folder and choose the directory where you cloned the project.
 
 Open main.cpp, press Ctrl + F5 to compile and run the game.
 
-📝 Project Reference
+---
+##📝 Project Reference
 This project was developed as part of the backend development challenges found on roadmap.sh.
 
-Target Project Link: https://roadmap.sh/projects/number-guessing-game
+Challenge Details: Roadmap.sh Project Page
 
-👤 Author
+My Submitted Solution: View My Verified Solution
+##👤 Author
 Hossein Azizi - Core Development - @hosoazizi
 
 // MADE WITH LOVE HOSSEIN 6 / 19 / 2026 :) ENJOY!!!
