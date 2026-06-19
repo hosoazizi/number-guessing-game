@@ -1,3 +1,4 @@
+
 # 🎮 Number Guessing Game
 
 A clean, terminal-based number guessing game implemented in C++. Players select a difficulty tier, and the program dynamically adjusts the maximum allowed attempts while tracking player performance.
@@ -32,7 +33,7 @@ To run this project locally using **Visual Studio**:
 
 1. **Clone the Repository:**
 ```bash
-git clone https://github.com/hosoazizi/number-guessing-game.git
+git clone [https://github.com/hosoazizi/number-guessing-game.git](https://github.com/hosoazizi/number-guessing-game.git)
 ```
 Open Visual Studio.
 
@@ -40,14 +41,14 @@ Select Open a local folder and choose the directory where you cloned the project
 
 Open main.cpp, press Ctrl + F5 to compile and run the game.
 
----
-##📝 Project Reference
+📝 Project Reference
 This project was developed as part of the backend development challenges found on roadmap.sh.
 
 Challenge Details: Roadmap.sh Project Page
 
 My Submitted Solution: View My Verified Solution
-##👤 Author
+
+👤 Author
 Hossein Azizi - Core Development - @hosoazizi
 
 // MADE WITH LOVE HOSSEIN 6 / 19 / 2026 :) ENJOY!!!
